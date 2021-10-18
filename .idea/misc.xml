@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/coding/tool/AndroidStudio/HelloWorld/app/src/main/res/drawable/bt_shape.xml.xml" value="0.1421875" />
+        <entry key="..\:/coding/tool/AndroidStudio/HelloWorld/app/src/main/res/drawable/button_selector.xml" value="0.14583333333333334" />
+        <entry key="..\:/coding/tool/AndroidStudio/HelloWorld/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1421875" />
+        <entry key="..\:/coding/tool/AndroidStudio/HelloWorld/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/coding/tool/AndroidStudio/HelloWorld/app/src/main/res/layout/constraint_layout.xml" value="0.2477355072463768" />
+        <entry key="..\:/coding/tool/AndroidStudio/HelloWorld/app/src/main/res/layout/constraint_layout_9_18.xml" value="0.264" />
+        <entry key="..\:/coding/tool/AndroidStudio/HelloWorld/app/src/main/res/layout/layout.xml" value="0.2477355072463768" />
+        <entry key="..\:/coding/tool/AndroidStudio/HelloWorld/app/src/main/res/layout/linear_layout_9_18.xml" value="0.4" />
+        <entry key="..\:/coding/tool/AndroidStudio/HelloWorld/app/src/main/res/layout/linear_layout_from_git.xml" value="0.4" />
+        <entry key="..\:/coding/tool/AndroidStudio/HelloWorld/app/src/main/res/layout/table_layout_9_18.xml" value="0.4" />
+        <entry key="..\:/coding/tool/AndroidStudio/HelloWorld/app/src/main/res/layout/table_layout_from_web.xml" value="0.4" />
+        <entry key="..\:/coding/tool/AndroidStudio/HelloWorld/app/src/main/res/layout/test.xml" value="0.4" />
+        <entry key="..\:/coding/tool/AndroidStudio/HelloWorld/app/src/main/res/layout/test_linear_layout.xml" value="0.4" />
+        <entry key="..\:/coding/tool/AndroidStudio/HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14583333333333334" />
+        <entry key="..\:/coding/tool/AndroidStudio/HelloWorld/lab2/src/main/res/layout/constraint_layout_9_18.xml" value="0.1140625" />
+        <entry key="..\:/coding/tool/AndroidStudio/HelloWorld/myapplication2/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
